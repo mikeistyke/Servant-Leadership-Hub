@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect } from 'react';
 import Layout from './components/layout';
-import PrinciplesGrid from './components/Principles';
+import PrinciplesGrid from './components/principles';
 import Assessment from './components/Assessment';
 import GeminiChat from './components/GeminiChat';
 import { View } from './types';
